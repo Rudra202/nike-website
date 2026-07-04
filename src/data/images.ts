@@ -1,0 +1,33 @@
+export const IMAGES = {
+  heroRunning: "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1400&q=80",
+  heroFootball: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1400&q=80",
+  heroTraining: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1400&q=80",
+  heroBasketball: "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=1400&q=80",
+  heroJordan: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1400&q=80",
+  heroWomen: "https://images.unsplash.com/photo-1486210389159-2c20863de260?w=1400&q=80",
+  heroKids: "https://images.unsplash.com/photo-1514090458221-65bb69cf63a4?w=1400&q=80",
+  heroSale: "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=1400&q=80",
+  heroLanding: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1400&q=80",
+
+  running: "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+  training: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&q=80",
+  sportswear: "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&q=80",
+  basketball: "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=80",
+  football: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&q=80",
+  yoga: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+  tennis: "https://images.unsplash.com/photo-1595435934249-5df7ed46eec0?w=600&q=80",
+  golf: "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=600&q=80",
+
+  product1: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+  product2: "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80",
+  product3: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80",
+  product4: "https://images.unsplash.com/photo-1579338559194-a162d19bf842?w=600&q=80",
+  product5: "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=600&q=80",
+  product6: "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?w=600&q=80",
+  product7: "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=600&q=80",
+  product8: "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&q=80",
+
+  footwear: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+  apparel: "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&q=80",
+  accessories: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=600&q=80",
+} as const;
