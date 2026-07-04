@@ -21,7 +21,7 @@ A full-stack clone of [nike.in](https://www.nike.in/) built with React, TypeScri
 ## Live Demo
 
 <!-- Add your live demo link here -->
-**Deployed URL:** `https://nike-website-tau-sand.vercel.app/`
+**Deployed URL:** https://nike-website-tau-sand.vercel.app/
 
 *(Replace the placeholder above with your actual deployment URL)*
 
